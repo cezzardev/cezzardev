@@ -48,6 +48,17 @@ FullStack Júnior em formação, focado na construção de aplicações web mode
 
 </p>
 
+### Experiência de trabalho
+
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="100px" width="100px" alt="Warpnet" src="https://tarcksgames.com/wp-content/uploads/2025/01/SIMBOLO-TG-BRANCO-1024x1024.png"/>](https://tarcksgames.com/)
+
+**Software Engineer** \
+[**Tarcsk Games**](https://tarcksgames.com/) • Full-time \
+Linguagens & Tecnologias: `JavaScript`, `TypeScript`, `HTML`, `CSS`, `React`, `MySQL`\
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
