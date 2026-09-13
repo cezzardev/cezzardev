@@ -55,7 +55,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="100px" width="100px" alt="Warpnet" src="https://tarcksgames.com/wp-content/uploads/2025/01/SIMBOLO-TG-BRANCO-1024x1024.png"/>](https://tarcksgames.com/)
 
 **Software Engineer** \
-[**Tarcsk Games**](https://tarcksgames.com/) • Full-time \
+[**Tarcks Games**](https://tarcksgames.com/) • Full-time \
 Linguagens & Tecnologias: `JavaScript`, `TypeScript`, `HTML`, `CSS`, `React`, `MySQL`\
 <br/>
 
