@@ -52,7 +52,7 @@ FullStack Júnior em formação, focado na construção de aplicações web mode
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="100px" width="100px" alt="Warpnet" src="https://tarcksgames.com/wp-content/uploads/2025/01/SIMBOLO-TG-BRANCO-1024x1024.png"/>](https://tarcksgames.com/)
+[<img align="left" height="100px" width="100px" alt="Tarcks Games" src="https://tarcksgames.com/assets/SIMBOLO-TG-BRANCO-1024x1024.png"/>](https://tarcksgames.com/)
 
 **Software Engineer** \
 [**Tarcks Games**](https://tarcksgames.com/) • Full-time \
